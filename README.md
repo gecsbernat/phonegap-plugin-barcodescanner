@@ -7,8 +7,17 @@ Cross-platform BarcodeScanner for Cordova / PhoneGap.
 
 Follows the [Cordova Plugin spec](https://cordova.apache.org/docs/en/latest/plugin_ref/spec.html), so that it works with [Plugman](https://github.com/apache/cordova-plugman).
 
+## Original repo
+
+https://github.com/phonegap/phonegap-plugin-barcodescanner
+
+
 ## Installation
 
+Ionic
+```
+ionic cordova plugin add https://github.com/gecsbernat/phonegap-plugin-barcodescanner.git
+```
 
 This requires phonegap 7.1.0+ ( current stable v8.0.0 )
 
